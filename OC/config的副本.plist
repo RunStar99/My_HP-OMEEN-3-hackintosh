@@ -79,32 +79,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				X1NUQQCgQwaT
-				</data>
+				<data>X1NUQQCgQwaT</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFNUQQCgQwaT
-				</data>
+				<data>WFNUQQCgQwaT</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -114,32 +105,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				RVJBTRE=
-				</data>
+				<data>RVJBTRE=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				RVJBTQE=
-				</data>
+				<data>RVJBTQE=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -149,32 +131,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				VVBCSQA=
-				</data>
+				<data>VVBCSQA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFBCSQA=
-				</data>
+				<data>WFBCSQA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -184,32 +157,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				VVBCUwA=
-				</data>
+				<data>VVBCUwA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFBCUwA=
-				</data>
+				<data>WFBCUwA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -219,32 +183,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				X1ExMAA=
-				</data>
+				<data>X1ExMAA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFExMAA=
-				</data>
+				<data>WFExMAA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 			<dict>
 				<key>Comment</key>
@@ -254,32 +209,23 @@
 				<key>Enabled</key>
 				<true/>
 				<key>Find</key>
-				<data>
-				X1ExMQA=
-				</data>
+				<data>X1ExMQA=</data>
 				<key>Limit</key>
 				<integer>0</integer>
 				<key>Mask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>OemTableId</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Replace</key>
-				<data>
-				WFExMQA=
-				</data>
+				<data>WFExMQA=</data>
 				<key>ReplaceMask</key>
-				<data>
-				</data>
+				<data></data>
 				<key>Skip</key>
 				<integer>0</integer>
 				<key>TableLength</key>
 				<integer>0</integer>
 				<key>TableSignature</key>
-				<data>
-				RFNEVA==
-				</data>
+				<data>RFNEVA==</data>
 			</dict>
 		</array>
 		<key>Quirks</key>
@@ -340,18 +286,16 @@
 	<dict>
 		<key>Add</key>
 		<dict>
-			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
+			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
 			<dict>
-				<key>AAPL,slot-name</key>
-				<string>Internal</string>
-				<key>alc-delay</key>
-				<integer>500</integer>
-				<key>device_type</key>
-				<string>Audio Device</string>
-				<key>layout-id</key>
-				<integer>3</integer>
+				<key>AAPL,ig-platform-id</key>
+				<data>BQAcWQ==</data>
+				<key>device-id</key>
+				<data>G1kAAA==</data>
+				<key>framebuffer-unifiedmem</key>
+				<data>AAAAgA==</data>
 				<key>model</key>
-				<string>CM238 HD Audio Controller</string>
+				<string>Intel HD Graphics 630</string>
 			</dict>
 			<key>PciRoot(0x0)/Pci(0x1c,0x0)/Pci(0x0)</key>
 			<dict>
@@ -366,22 +310,18 @@
 				<key>name</key>
 				<string>Airport</string>
 			</dict>
-			<key>PciRoot(0x0)/Pci(0x2,0x0)</key>
+			<key>PciRoot(0x0)/Pci(0x1F,0x3)</key>
 			<dict>
-				<key>AAPL,ig-platform-id</key>
-				<data>
-				BQAcWQ==
-				</data>
-				<key>device-id</key>
-				<data>
-				G1kAAA==
-				</data>
-				<key>framebuffer-unifiedmem</key>
-				<data>
-				AAAAgA==
-				</data>
+				<key>AAPL,slot-name</key>
+				<string>Internal</string>
+				<key>alc-delay</key>
+				<integer>500</integer>
+				<key>device_type</key>
+				<string>Audio Device</string>
+				<key>layout-id</key>
+				<integer>3</integer>
 				<key>model</key>
-				<string>Intel HD Graphics 630</string>
+				<string>CM238 HD Audio Controller</string>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -877,11 +817,9 @@
 		<key>Emulate</key>
 		<dict>
 			<key>Cpuid1Data</key>
-			<data>
-			</data>
+			<data></data>
 			<key>Cpuid1Mask</key>
-			<data>
-			</data>
+			<data></data>
 		</dict>
 		<key>Patch</key>
 		<array/>
@@ -917,15 +855,6 @@
 			<false/>
 			<key>XhciPortLimit</key>
 			<false/>
-		</dict>
-		<key>Scheme</key>
-		<dict>
-			<key>FuzzyMatch</key>
-			<true/>
-			<key>KernelArch</key>
-			<string>x86_64</string>
-			<key>KernelCache</key>
-			<string>Auto</string>
 		</dict>
 	</dict>
 	<key>Misc</key>
@@ -1049,46 +978,31 @@
 			<key>4D1EDE05-38C7-4A6A-9CC6-4BCCA8B38C14</key>
 			<dict>
 				<key>DefaultBackgroundColor</key>
-				<data>
-				AAAAAA==
-				</data>
+				<data>AAAAAA==</data>
 				<key>UIScale</key>
-				<data>
-				AQ==
-				</data>
+				<data>AQ==</data>
 			</dict>
 			<key>4D1FDA02-38C7-4A6A-9CC6-4BCCA8B30102</key>
 			<dict>
 				<key>rtc-blacklist</key>
-				<data>
-				</data>
+				<data></data>
 			</dict>
 			<key>7C436110-AB2A-4BBB-A880-FE41995C9F82</key>
 			<dict>
 				<key>SystemAudioVolume</key>
-				<data>
-				Rg==
-				</data>
+				<data>Rg==</data>
 				<key>boot-args</key>
 				<string>brcmfx-country=#a brcmfx-aspm</string>
-				<key>booter-fileset-basesystem</key>
-				<data>
-				AA==
-				</data>
-				<key>booter-fileset-kernel</key>
-				<data>
-				AA==
-				</data>
-				<key>csr-active-config</key>
-				<data>
-				5wMAAA==
-				</data>
-				<key>prev-lang:kbd</key>
-				<data>
-				emgtSGFuczoyNTI=
-				</data>
 				<key>run-efi-updater</key>
 				<string>No</string>
+				<key>booter-fileset-basesystem</key>
+				<data>AA==</data>
+				<key>booter-fileset-kernel</key>
+				<data>AA==</data>
+				<key>csr-active-config</key>
+				<data>5wMAAA==</data>
+				<key>prev-lang:kbd</key>
+				<data>emgtSGFuczoyNTI=</data>
 			</dict>
 		</dict>
 		<key>Delete</key>
@@ -1151,9 +1065,7 @@
 			<key>MLB</key>
 			<string>C027021304NHRPCJA</string>
 			<key>ROM</key>
-			<data>
-			ESIzRFVm
-			</data>
+			<data>ESIzRFVm</data>
 			<key>SpoofVendor</key>
 			<true/>
 			<key>SystemProductName</key>

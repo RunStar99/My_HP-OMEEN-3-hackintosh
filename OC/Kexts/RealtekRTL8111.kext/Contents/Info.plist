@@ -17,7 +17,7 @@
 	<key>CFBundlePackageType</key>
 	<string>KEXT</string>
 	<key>CFBundleShortVersionString</key>
-	<string>2.3.0</string>
+	<string>2.3.0d7</string>
 	<key>CFBundleSignature</key>
 	<string>????</string>
 	<key>CFBundleSupportedPlatforms</key>
@@ -25,7 +25,7 @@
 		<string>MacOSX</string>
 	</array>
 	<key>CFBundleVersion</key>
-	<string>2.3.0</string>
+	<string>2.3.0d7</string>
 	<key>DTCompiler</key>
 	<string>com.apple.compilers.llvm.clang.1_0</string>
 	<key>DTPlatformBuild</key>
@@ -33,9 +33,9 @@
 	<key>DTPlatformVersion</key>
 	<string>GM</string>
 	<key>DTSDKBuild</key>
-	<string>15E60</string>
+	<string>14D125</string>
 	<key>DTSDKName</key>
-	<string>macosx10.11</string>
+	<string>macosx10.10</string>
 	<key>DTXcode</key>
 	<string>1010</string>
 	<key>DTXcodeBuild</key>
@@ -66,7 +66,7 @@
 				<true/>
 			</dict>
 			<key>Driver_Version</key>
-			<string>2.3.0</string>
+			<string>2.3.0d7</string>
 			<key>IOClass</key>
 			<string>RTL8111</string>
 			<key>IOPCIMatch</key>
